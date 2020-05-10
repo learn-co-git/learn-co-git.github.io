@@ -1,0 +1,15 @@
+---
+layout: post
+title:      " `Solar Verde  Annual Solar Array Predictions (A/C Output)`"
+date:       2020-05-10 18:13:42 +0000
+permalink:  solar_verde_annual_solar_array_predictions_a_c_output
+---
+
+
+
+       Recent ventures into solar generating arrays had sparked my interest into prediction models. The complexity involved in generating such models can be hard to overstate. Individual variables alone can pose immense obstacles. Weather modeling of course being the foremost variable one thinks of when attempting a calculation. Thankfully the U.S Department of Energy has put together a queryable dataset and tool.
+      On my occasional trips around using the commuter train we have in my area got me pondering empty roof tops. The air is filled poisonous gases from internal combustion engines, rivers are still damned forming massive lakes and the economies of the world still frantically addicted to oil, without a resolution in sight. Yet all around us, during the daylight hours, falls energy, at times up to 1000w/m^2. I understand and can sympathize with those whom argue initial cost and can even play devils advocate when the debate ventures into pollution and energy needed in production. All of this aside, there are areas in this country, massive areas, where the use of photovoltaic arrays can prove to be efficient energy collectors. This combined with initial costs decreasing and the slower but steady rise in panel efficiency had spawned the question why isn't more solar energy being captured in areas that could benefit so much. Could it be that there are a lack of tools for people and decision makers to use in making the initial jump.
+       Keep in mind that there are many tools out there for generating such an output. Are there too many? I don’t think at the current time there is, especially when I stare at those empty roof tops. So many dependent when they could independent. Within Solar Verde users will find a simplified, relatable output which without any prior knowledge regarding photovoltaics or their particular climate variables can produce a general value that hopefully has meaning. Giving numbers meaning has always been interesting, watts per meter squared, means little to most, but a value that could be more relatable might spur more action. 
+      In addition to the user friendly simplified portion of Solar Verde is the advanced gather process. Here Solar Verde allows a user with more specific needs to generate a more unique prediction. This modeling requires a greater degree of knowledge in photovoltaic systems and technology, but hopefully Solar Verde can walk those adventurous but novice through this process as well. Even if all the values in the advanced process can’t be obtained by the user, functionality is included to place default values as placeholders and a help option within each question.
+        More tools, less empty roofs, more independence, less dependence, cleaner air, more dynamic economies, a greener future, Solar Verde. 
+
