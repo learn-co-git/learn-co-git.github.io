@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Pirate Rekon AWS Rekognition and Cloudinary."
-date:       2020-06-16 17:27:43 +0000
+date:       2020-06-16 13:27:44 -0400
 permalink:  pirate_rekon_aws_rekognition_and_cloudinary
 ---
 
